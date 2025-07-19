@@ -8,6 +8,7 @@ The Gateway Fees module for WHMCS allows you to configure and apply additional f
 
 - **Original Author**: Adrien Dessey (AdKyNet SAS)
 - **Update by**: Yann Martin
+- **Updated by**:ScoobyMedia
 
 ## Installation
 
@@ -49,8 +50,6 @@ When deactivating the module, you have the option to delete the module's SQL tab
 ## Support
 
 For support, contact:
-- **Original Author**: Adrien Dessey (AdKyNet SAS) [Contact](https://www.adkynet.com/en)
-- **Update Contact**: Yann Martin (https://github.com/yannmartin)
----
+ScoobyMedia Directly
 
 **Note:** Always backup your WHMCS installation and database before installing or modifying modules.
